@@ -1,0 +1,23 @@
+Privacy Policy for G2B Table Extractor
+
+Last Updated: August 29, 2025
+
+Thank you for using G2B Table Extractor. This privacy policy explains how our extension handles your data.
+
+1. Data We Access
+When you activate the extension on a webpage, it requires access to read the content of that page. This is necessary to find and extract the data from the HTML table you wish to export.
+
+2. How We Use Your Data
+The data accessed from the webpage is used for the single purpose of generating an Excel (.xlsx) file from a table. This file is then downloaded directly to your computer for your own use.
+
+3. Data Storage and Transmission
+We take your privacy very seriously. The G2B Table Extractor extension:
+- Does NOT collect, save, or store any of your personal information or browsing data.
+- Does NOT transmit any data from your browser to our servers or any third-party servers.
+- All data processing (reading the table and creating the Excel file) occurs entirely locally on your computer.
+
+4. Changes to This Policy
+We may update this privacy policy in the future. We will notify you of any changes by updating the policy within the extension's store listing.
+
+5. Contact Us
+If you have any questions about this privacy policy, please contact us at [rhleh96@gmail.com].
